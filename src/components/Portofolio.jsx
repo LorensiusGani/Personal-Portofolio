@@ -61,25 +61,6 @@ const Portofolio = () => {
 
       </div>
 
-      <div >
-        <div className=' grid grid-cols-2 mt-14'>
-          <div className='max-w-xl rounded-xl overflow-hidden shadow-lg bg-white mx-14'>
-            <div>
-              <a className='cursor-pointer hover:scale-90 relative block'>
-
-              </a>
-            </div>
-            <div className='mt-3 mb-3 text-center text-black'>
-              <h1 className='text-xl font-bold'>Txt</h1>
-              <p className='text-lg font-semibold'>Txt</p>
-              <p className='text-lg font-semibold'>Source Code : <a className='text-blue-600' href="https://github.com/ryoa30/Pet-Care" target='_blank'
-                rel="noopener noreferrer">Github</a></p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
       <div>
         <div className='mt-10'>
           <h1 className='text-white text-center text-5xl sn:8xl font-bold'>Skills</h1>
