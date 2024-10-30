@@ -3,7 +3,7 @@ import personalphoto from '../Assets/Foto-Diri.png';
 
 const Home = () => {
   return (
-    <div className='h-screen w-full bg-black'>
+    <div id='home' className='h-screen w-full bg-black'>
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-8 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
             <h1 className='text-5xl sn:7-xl font-bold text-white'>I'm Lorensius Bernard Gani</h1>

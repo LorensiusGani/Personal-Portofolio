@@ -7,7 +7,7 @@ import rod from '../Assets/ROD.jpeg';
 const About = () => {
 
     return (
-        <div className='w-full bg-black'>
+        <div id='about' className='w-full bg-black'>
             <div className='flex justify-center items-center'>
                 <h1 className='text-5xl sn:7-xl font-bold text-white'>About</h1>
             </div>

@@ -12,7 +12,7 @@ import c from '../Assets/C.png'
 
 const Portofolio = () => {
   return (
-    <div className='bg-black w-full'>
+    <div id='porto' className='bg-black w-full'>
       <div>
         <h1 className='text-white text-center text-5xl sn:8xl font-bold'>Portofolio</h1>
       </div>

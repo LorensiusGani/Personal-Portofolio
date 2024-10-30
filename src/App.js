@@ -6,6 +6,7 @@ import Portofolio from "./components/Portofolio";
 import Contact from "./components/Contact";
 
 function App() {
+  
   return (
    <div>
     <Navbar />
